@@ -5,13 +5,22 @@ layout: regular
 <hr style="clear: both;" />
 # Registration 
 <hr style="clear: both;" />
-**Registration is closed for the 7<sup>th</sup> Annual MU Plant Research Symposium** <br />
+**Registration is officially open for the 8<sup>th</sup> Annual MU Plant Research Symposium** <br />
 <hr style="clear: both;" />
 
 <br /><br />
-**Link to join Webinar**
+**Symposium Registration Form**
 <br />
-<p><a href="https://umsystem.zoom.us/j/94614152568">https://umsystem.zoom.us/j/94614152568</a></p>
+Deadline: February 27<sup>th</sup>
+<p><a href="https://forms.gle/3jjgiyhTGrCqxcCF6">Symposium Registration Link</a>
+</p>
+<br /><br />
+
+<br /><br />
+**Abstract Registration Form**
+<br />
+Deadline:
+<p><a href="https://forms.gle/URyuv8b1WnuDXRQHA">Abstract Registration Link</a></p>
 <br /><br />
 
 <hr style="clear: both;" />
